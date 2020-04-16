@@ -1,0 +1,4 @@
+# list of extra protocol versions allowed to connect
+# current protocol is always enabled
+extraVersions:
+  - 390
