@@ -2,3 +2,4 @@
 # current protocol is always enabled
 extraVersions:
   - 408
+  - 409
